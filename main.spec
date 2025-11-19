@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['FearGreed.py'],
     pathex=[],
     binaries=[('C:/Users/lim/miniconda3/envs/builder/Library/bin/libcrypto-1_1-x64.dll', '.'), ('C:/Users/lim/miniconda3/envs/builder/Library/bin/libssl-1_1-x64.dll', '.')],
     datas=[],
